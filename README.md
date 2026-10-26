@@ -1,72 +1,93 @@
-# Step-by-Step
-<img width="1254" height="1254" alt="WhatsApp Image 2026-07-28 at 6 26 45 PM" src="https://github.com/user-attachments/assets/6a019000-8263-456b-ab20-e78a15b609e3" />
+<p align="center">
+  <img width="220" alt="Step by Step Logo" src="https://github.com/user-attachments/assets/6a019000-8263-456b-ab20-e78a15b609e3" />
+</p>
 
-An interactive educational platform built with Laravel &amp; Tailwind CSS, offering smart course management, secure student-teacher portals, and digital learning tools. Live Demo: [https://stepvoro.com]
-# 🎓 منصة تعليمية إلكترونية متكاملة
+<h1 align="center">Step by Step | منصة تعليمية إلكترونية متكاملة 🎓</h1>
 
-منصة ويب متطورة مصممة لإدارة العملية التعليمية بكفاءة عالية، وربط الطلاب بالمعلمين من خلال بيئة تفاعلية منظمة، مع توفير تجربة مستخدم سلسة ولوحات تحكم مخصصة لإدارة المحتوى والبيانات.
+<p align="center">
+  <b>منصة تعليمية متطورة لإدارة المحتوى الأكاديمي، الفصول الدراسية، والطلاب بكفاءة عالية وأداء فائق.</b>
+</p>
 
-🔗 **المعاينة المباشرة (Live Demo): https://stepvoro.com
+<p align="center">
+  <a href="https://stepvoro.com" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-stepvoro.com-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
+  </a>
+  <img src="https://img.shields.io/badge/Backend-Laravel-red?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Frontend-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
----
-
-## 📌 نظرة عامة عن المشروع (About The Project)
-
-تم بناء هذا النظام لتلبية متطلبات المراكز والمدارس التعليمية لتنظيم وإدارة الدروس والطلاب إلكترونياً. يركز المشروع على تقديم أداء فائق وسرعة في التصفح، مع بنية قواعد بيانات قوية تضمن أمان البيانات واستقرار النظام عند الضغط وتعدد المستخدمين.
-
----
-
-## 🚀 المميزات الرئيسية (Key Features)
-
-### 👨‍🎓 بوابة الطالب:
-- **تصفح المحتوى الدراسي:** وصول مباشر وسهل للمحاضرات، المواد التعليمية، والملخصات.
-- **متابعة الإعلانات والجدول:** واجهة مخصصة لعرض التنبيهات وتحديثات الفصول والدروس أولاً بأول.
-- **حساب مخصص:** إمكانية تعديل الملف الشخصي والاطلاع على الأنشطة الخاصة به.
-
-### 👨‍🏫 بوابة المعلم / الإدارة (Admin & Teacher Portals):
-- **لوحة تحكم تفاعلية (Dashboard):** عرض إحصائيات دقيقة عن عدد المشتركين والصفوف والمحتوى المتاح.
-- **إدارة المحتوى والدروس:** إمكانية إضافة الدروس، رفع الملفات والملازم، وتحديث البيانات بسهولة.
-- **إدارة الصلاحيات والمستخدمين:** نظام أمني قوي يفصل بين صلاحيات الإدارة العليا، المعلمين، والطلاب.
-
-### ⚙️ الأداء والحماية (Performance & Security):
-- **تصميم متجاوب بالكامل (Fully Responsive):** تجربة تصفح متوافقة ومثالية مع شاشات الهواتف والأجهزة اللوحية والحواسيب.
-- **حماية البيانات:** تطبيق أفضل المعايير الأمنية لمنع الوصول غير المصرح به للبيانات وحماية الروابط والجلسات.
-- **تهيئة محركات البحث (SEO Optimized):** هيكلة صحيحة للوسوم والصفحات لدعم الأرشفة السريعة على Google.
+<p align="center">
+  🔗 <b>رابط المعاينة المباشر:</b> <a href="https://stepvoro.com" target="_blank">https://stepvoro.com</a>
+</p>
 
 ---
 
-## 🛠️ المكدس التقني (Tech Stack)
+## 📌 عن المشروع (About The Project)
 
-- **Backend:** PHP / Laravel
-- **Frontend:** Blade, Tailwind CSS / Bootstrap, JavaScript, HTML5, CSS3
-- **Database:** MySQL
-- **Web Server & Hosting:** Hostinger (cPanel / Apache / Nginx)
-- **Tools:** Git, Composer, VS Code
+تم تطوير منصة **Step by Step** كحل برمجي متكامل موجه للمراكز التعليمية والمدارس الثانوية، بهدف رقمنة وإدارة العملية التعليمية بالكامل. توفر المنصة جسراً تفاعلياً سلساً بين الطلاب والمعلمين والإدارة، مع التركيز على سهولة الوصول إلى المناهج والدروس المسجلة والملازم الدراسية، مع ضمان أعلى معايير الأمان وحماية البيانات وسرعة التحميل تحت الضغط وتعدد الجلسات المتزامنة.
 
 ---
 
-## 📸 لقطات من النظام (Screenshots)
+## 🚀 المميزات الأساسية (Key Features)
 
-<img width="1920" height="922" alt="image" src="https://github.com/user-attachments/assets/b2fcaa1f-6657-45a8-a55b-0d47bce8e7af" />
-<img width="1920" height="916" alt="image" src="https://github.com/user-attachments/assets/a63ccc9e-3474-492f-8513-f12f13f5b975" />
-<img width="1920" height="921" alt="image" src="https://github.com/user-attachments/assets/391568bf-3caa-457c-b466-019d74847604" />
-<img width="1920" height="927" alt="image" src="https://github.com/user-attachments/assets/fdf4c289-9027-48c5-9c1b-c22753013a9b" />
-<img width="1920" height="923" alt="image" src="https://github.com/user-attachments/assets/4d13720e-5b8d-442d-bedb-c07360bb0742" />
+### 👨‍🎓 بوابة الطالب (Student Portal):
+- **تنظيم المناهج والفصول:** استعراض المواد الدراسية، الملازم التعليمية، وجداول الدروس بصورة مرتبة حسب التخصص والصف.
+- **مشاهدة المحتوى التفاعلي:** تجربة قراءة وعرض سلسة للمحاضرات والملخصات دون تعقيد.
+- **التنبيهات المباشرة:** متابعة مستمرة لأحدث الإعلانات، تحديثات الحصص، والمواعيد الهامة.
+- **ملف شخصي مخصص:** متابعة حالة الحساب والتسجيل بسهولة.
 
+### 👨‍🏫 بوابة الإدارة والمعلم (Admin & Management):
+- **لوحة تحكم مركزية (Admin Dashboard):** إحصائيات فورية ودقيقة حول أعداد المشتركين، الدروس، وتوزيع المحتوى الأكاديمي.
+- **نظام إدارة المحتوى (CMS):** أدوات سهلة وسريعة لرفع المحاضرات والملازم، تنظيم الأقسام، وتعديل المواد بمرونة.
+- **إدارة المستخدمين والصلاحيات (RBAC):** جدار حماية وصلاحيات متعددة المستويات تضمن خصوصية السجلات الإدارية وفصل المهام.
 
-
-
-
-
-
-## 🔒 ملاحظة حول الشيفرة المصدرية (Source Code)
-
-> الكود المصدري لهذا المشروع محفوظ في مستودع خاص (**Private Repository**) لحماية حقوق الملكية الفكرية والعمل التجاري. الموقع يعمل بشكل كامل ومتاح للمعاينة والتجربة المباشرة عبر الرابط أعلاه.
+### ⚙️ الخصائص التقنية والأمان (Architecture & Security):
+- **تصميم متجاوب بالكامل (100% Responsive):** واجهات تفاعلية تم بناؤها بعناية لتناسب الهواتف المحمولة، الأجهزة اللوحية، وشاشات الحواسيب.
+- **معايير أمان متقدمة:** تأمين جلسات التصفح، حماية المدخلات ضد هجمات CSRF و SQL Injection، وحماية الروابط المباشرة.
+- **جاهزية لمحركات البحث (SEO Optimized):** بناء هيكلي منظم للبيانات والوسوم التعريفية يتيح سهولة وأرشفة سريعة على محرك بحث Google.
 
 ---
 
-## 📬 تواصل معي (Contact)
+## 🛠️ البنية البرمجية والمكدس التقني (Tech Stack)
 
-إذا كنت تبحث عن تطوير نظام تعليمي مشابه أو لديك أي استفسار تقني، يسعدني تواصلك:
-- **البريد الإلكتروني:** your-email@example.com
-- **حساب لينكد إن / منصات العمل:** [رابط حسابك]
+* **Backend Framework:** PHP 8+ / Laravel
+* **Frontend:** Blade Templates, Tailwind CSS, JavaScript (Vanilla), HTML5, Modern CSS3
+* **Database Architecture:** Relational MySQL (Optimized Queries & Indexing)
+* **Hosting & Web Server:** Hostinger Cloud Infrastructure (Nginx / Apache Configured)
+* **DevOps & Developer Tools:** Git, Composer, NPM, VS Code
+
+---
+
+## 📸 معرض الواجهات ولوحات التحكم (Screenshots)
+
+<p align="center">
+  <b>الصفحة الرئيسية وواجهة عرض الأقسام</b><br>
+  <img width="95%" alt="Step by Step - Homepage" src="https://github.com/user-attachments/assets/b2fcaa1f-6657-45a8-a55b-0d47bce8e7af" />
+</p>
+
+<p align="center">
+  <b>استعراض الدروس والمواد الأكاديمية</b><br>
+  <img width="95%" alt="Step by Step - Courses" src="https://github.com/user-attachments/assets/a63ccc9e-3474-492f-8513-f12f13f5b975" />
+</p>
+
+<p align="center">
+  <b>نظام متابعة الطلاب والملفات التعليمية</b><br>
+  <img width="95%" alt="Step by Step - Portal" src="https://github.com/user-attachments/assets/391568bf-3caa-457c-b466-019d74847604" />
+</p>
+
+<p align="center">
+  <b>لوحة التحكم والإدارة الداخلية</b><br>
+  <img width="95%" alt="Step by Step - Dashboard" src="https://github.com/user-attachments/assets/fdf4c289-9027-48c5-9c1b-c22753013a9b" />
+</p>
+
+<p align="center">
+  <b>إدارة المستخدمين وضبط الصلاحيات</b><br>
+  <img width="95%" alt="Step by Step - Settings" src="https://github.com/user-attachments/assets/4d13720e-5b8d-442d-bedb-c07360bb0742" />
+</p>
+
+---
+
+## 🔒 حماية الشيفرة المصدرية (Source Code Notice)
+
+> **تنويه:** هذا المستودع مخصص لأغراض العرض والتوثيق ضمن معرض الأعمال (Portfolio Showcase). الشيفرة المصدرية الأساسية وقواعد البيانات محفوظة في مستودع
