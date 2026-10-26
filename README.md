@@ -67,22 +67,22 @@
 </p>
 
 <p align="center">
-  <b>استعراض الدروس والمواد الأكاديمية</b><br>
+ <br>
   <img width="95%" alt="Step by Step - Courses" src="https://github.com/user-attachments/assets/a63ccc9e-3474-492f-8513-f12f13f5b975" />
 </p>
 
 <p align="center">
-  <b>نظام متابعة الطلاب والملفات التعليمية</b><br>
+   <br>
   <img width="95%" alt="Step by Step - Portal" src="https://github.com/user-attachments/assets/391568bf-3caa-457c-b466-019d74847604" />
 </p>
 
 <p align="center">
-  <b>لوحة التحكم والإدارة الداخلية</b><br>
+   <br>
   <img width="95%" alt="Step by Step - Dashboard" src="https://github.com/user-attachments/assets/fdf4c289-9027-48c5-9c1b-c22753013a9b" />
 </p>
 
 <p align="center">
-  <b>إدارة المستخدمين وضبط الصلاحيات</b><br>
+   <br>
   <img width="95%" alt="Step by Step - Settings" src="https://github.com/user-attachments/assets/4d13720e-5b8d-442d-bedb-c07360bb0742" />
 </p>
 
